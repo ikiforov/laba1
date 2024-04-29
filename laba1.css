@@ -1,0 +1,40 @@
+.Red{
+    color: red;
+}
+
+.Blue{
+    color: rgb(26, 26, 192);
+    margin: auto; 
+}
+img{
+    border-radius: 40px;
+    padding: 0;
+}
+body{
+    background-image: url("https://coolsen.ru/wp-content/uploads/2021/10/131-20211031_185005-2048x2048.jpg");
+    font-family: Roboto, sans-serif;
+}
+.picters{
+    background-color: gray;
+    margin: auto;
+}
+
+.center{
+    text-align: center;
+    margin: auto;
+}
+li{
+    font-size: 30px;
+}
+
+.tableborder{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.td{
+    border: 1px solid black;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
